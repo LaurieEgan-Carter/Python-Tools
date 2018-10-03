@@ -1,4 +1,4 @@
-#G-Bomber
+# G-Bomber
 
 <--- Gmail Spam bot (G-Bomber) --->
 
@@ -19,4 +19,4 @@ Enter your email and password when promted so the script can send the email from
 
 Then you enter your victims email so the message can be sent.
 
-#<--- I am not responsible for what you do with this script --->
+# <--- I am not responsible for what you do with this script --->
