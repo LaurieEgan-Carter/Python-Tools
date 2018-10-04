@@ -11,7 +11,7 @@ Once in settings go to the Sign in & Security setting tab.
 Once in there go to "Apps with account access" then turn on "Allow less secure apps".
 This will allow the script to log into the email and send the messages.
 
-Launch the "g-bomber.py" script in cmd or your own IDE.
+Launch the "g-bomber.py" script. (run "python C:\users\zed\desktop\g-bomber.py" or wherever you saved the file to in cmd or you can use your own IDE) 
 
 Follow the prompts;
 
